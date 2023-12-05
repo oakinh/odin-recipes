@@ -1,0 +1,43 @@
+* {
+   font-family:'San Francisco', sans-serif;
+   background-color: #b2b2b2;
+   color: black;
+}
+
+h1 {
+    color: gold;
+    padding: 8px;
+    margin-left: 10px;
+}
+p, ul, ol {
+    margin-left:40px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    margin-left:40px;
+}
+
+h2, h3 {
+    color: gold;
+    margin-left: 20px;
+}
+
+.centeralign {
+    text-align:center;
+}
+
+.buttoncontainer {
+    text-align: center;
+    padding:8px;
+    font-size: 24px;
+}
+
+.abutton, .buttoncontainer{
+    background-color:#d9c21d;
+}
+
+.abutton:hover, .buttoncontainer:hover{
+    background-color: darkgoldenrod
+}
